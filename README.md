@@ -1,16 +1,24 @@
-## Hi there 👋
+![banner](github-header-banner.png)
+***
 
-<!--
-**m-nadra/m-nadra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills 👨‍💻
 
-Here are some ideas to get you started:
+**Programming languages**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Programming languages](https://i.icoziv.workers.dev/icons?i=c,cpp,python-light,java&t=light)
+
+**Frontend**
+
+![Frontend](https://i.icoziv.workers.dev/icons?i=html,css,javascript,typescript,reactjs-light,nextjs-light,tailwindcss-light&t=light)
+
+**Backend**
+
+![Backend](https://i.icoziv.workers.dev/icons?i=expressjs-light,fastapi,postgresql-light&t=light)
+
+**DevOps & Operating systems**
+
+![DevOps](https://i.icoziv.workers.dev/icons?i=docker,git-light,github-light,linux-light,bash-light&t=light)
+
+**Machine Learning**
+
+![Machine Learning](https://i.icoziv.workers.dev/icons?i=scikitlearn-light,tensorflow-light,keras&t=light)
