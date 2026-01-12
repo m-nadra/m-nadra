@@ -1,8 +1,5 @@
 ![banner](github-header-banner.png)
-***
-
-## Skills 👨‍💻
-
+  
 **Programming languages**
 
 ![Programming languages](https://i.icoziv.workers.dev/icons?i=c,cpp,python-light,java&t=light)
