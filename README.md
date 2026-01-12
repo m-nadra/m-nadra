@@ -1,5 +1,5 @@
-![banner](github-header-banner.png)
-  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=32&pause=1000&background=FFFEFE00&width=435&lines=Miko%C5%82aj+Nadra+)](https://git.io/typing-svg)
+
 **Programming languages**
 
 ![Programming languages](https://i.icoziv.workers.dev/icons?i=c,cpp,python-light,java&t=light)
