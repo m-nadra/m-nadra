@@ -14,7 +14,7 @@
 
 **DevOps & Operating systems**
 
-![DevOps](https://i.icoziv.workers.dev/icons?i=docker,git-light,github-light,linux-light,bash-light&t=light)
+![DevOps](https://i.icoziv.workers.dev/icons?i=docker,git-light,github-light,linux-light,bash-light,nginx&t=light)
 
 **Machine Learning**
 
