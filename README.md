@@ -1,21 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=32&pause=1000&background=FFFEFE00&width=435&lines=Miko%C5%82aj+Nadra+)](https://git.io/typing-svg)
 
-**Programming languages**
+Aspiring software developer with a strong foundation in **Python** and modern **web technologies**, developed through hands-on personal and academic projects. I focus on writing clean, maintainable code and building solutions that address real-world problems.
 
-![Programming languages](https://i.icoziv.workers.dev/icons?i=c,cpp,python-light,java&t=light)
+I have experience working with frameworks such as **React, Express, and FastAPI**, and I’m comfortable using tools like **Git** and **Docker** in my development workflow. I also have a solid command of **Linux environments and Bash scripting**, along with practical experience in working with **relational databases and SQL**.
 
-**Frontend**
+My interests include web application development, **DevOps practices**, and exploring the fundamentals of **machine learning**. I’m continuously expanding my skill set and enjoy turning knowledge into practical, working projects.
 
-![Frontend](https://i.icoziv.workers.dev/icons?i=html,css,javascript,typescript,reactjs-light,nextjs-light,tailwindcss-light&t=light)
-
-**Backend**
-
-![Backend](https://i.icoziv.workers.dev/icons?i=expressjs-light,fastapi,postgresql-light&t=light)
-
-**DevOps & Operating systems**
-
-![DevOps](https://i.icoziv.workers.dev/icons?i=docker,git-light,github-light,linux-light,bash-light,nginx&t=light)
-
-**Machine Learning**
-
-![Machine Learning](https://i.icoziv.workers.dev/icons?i=scikitlearn-light,tensorflow-light,keras&t=light)
+Motivated, curious, and ready to gain my first commercial experience — feel free to explore my repositories and see what I’ve been building.
